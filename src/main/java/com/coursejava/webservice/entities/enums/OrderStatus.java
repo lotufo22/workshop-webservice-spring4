@@ -1,4 +1,4 @@
-package com.coursejava.webservice.entities;
+package com.coursejava.webservice.entities.enums;
 
 public enum OrderStatus {
 
